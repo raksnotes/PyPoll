@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-** Module 3 Challenge ** 
+# Module 3 Challenge
 
 # Add our dependencies.
 import csv
