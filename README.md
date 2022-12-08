@@ -43,8 +43,7 @@ shown:
 
 This would be helpful for any election, as it automatically generates the total number of votes, so we could easily tell who is the winner in a more efficient manner.
 One way to modify the code, would be inserting a question function that would allow a user to type in what county they are looking for, and in return, it would 
-provide the whole output in regard to percentage and count. Another way to modify the code which would also coincide with the first way, is being able to type in 
-any county nationwide, to see the different the outcomes if used for research purposes for example. 
+provide the whole output in regard to percentage and count. Another way to modify the code which would also coincide with the first way, is being able to type in states grouped by candidateto see the different the outcomes nationwide if used for research purposes for example. 
 
 
 
